@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="接口测试">
+
+    <test name="test">
+        <classes>
+            <class name="po.lemon.test2.testcases.RegestTest"/>
+            <class name="po.lemon.test2.testcases.LoginTest"/>
+            <class name="po.lemon.test2.testcases.RechargeTest"/>
+            <class name="po.lemon.test2.testcases.AddloanTest"/>
+            <class name="po.lemon.test2.testcases.InvestFlowTest"/>
+        </classes>
+    </test>
+
+</suite>
